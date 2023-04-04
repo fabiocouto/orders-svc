@@ -8,7 +8,7 @@ public class OrdersSvcApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(OrdersSvcApplication.class, args);
-		System.out.println("Orders service UP!");
+		System.out.println("Orders service started OK!");
 	}
 
 }
